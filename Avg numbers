@@ -1,0 +1,12 @@
+#include ;
+using namespace std ;
+int main()
+{
+int number ;
+cout << " enter the number \n ";
+
+if (number >= 0)
+	cout << " it's positive \n ";
+else
+	cout << " it's negative \n ";
+}
